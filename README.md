@@ -1,2 +1,2 @@
 # Electronics-HW-Text-Books
-Text Books of some very interesting books
+Collection of some very interesting textbooks and app notes
